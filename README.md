@@ -8,7 +8,7 @@
 This project will generate a  SVG logo so that developer can create easily create by terminal.web developers to create custom logos without hiring a graphic designer. i have used package of  [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4) for input form user. and install the package of JEST for testing with a test suite consisting of three tests to ensure accurate shapes and colors.This app showcases the potential of back-end developers and the importance of unit testing. it prompt user to  background color , limiting text input to three characters and text color. It has been three shapes which is circle,square and traingle. 
 
 # github Repo Link
-git@github.com:LipikaManglaa/how-can-we-generate-svg.git
+git@github.com:[LipikaManglaa/how-can-we-generate-svg.git](https://github.com/LipikaManglaa/how-can-we-generate-svg.git)
 
 # video Link 
 
